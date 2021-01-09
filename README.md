@@ -38,5 +38,6 @@
 `rosrun robosys2020_task2 twice.py`
 
 
-
+## 実行している動画
+[Youtube](https://youtu.be/F-ppqREXeew)
 
